@@ -12,11 +12,11 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "23664819",
+            "description": "25693368",
             "required": true
         },
         "API_HASH": {
-            "description": "3853f97c662d5d08cee5f0d07361361e",
+            "description": "2dcf91b0f99c0b9d4875e87020e6bd07",
             "required": true
         },
         "BOT_TOKEN": {
