@@ -1,24 +1,24 @@
 import os
 
-API_ID = os.environ.get("API_ID", "23664819")
+API_ID = os.environ.get("API_ID", "25693368")
 
-API_HASH = os.environ.get("API_HASH", "3853f97c662d5d08cee5f0d07361361e")
+API_HASH = os.environ.get("API_HASH", "2dcf91b0f99c0b9d4875e87020e6bd07")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7694651611:AAFj-XVfUmXbZGK690521MdOlEdg8RygLvs")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7547785716:AAFp29f8MM4p2WbAcDkpWEBQGPsFaWfWUsQ")
 
 PASS_DB = int(os.environ.get("PASS_DB", "721"))
 
-#OWNER = int(os.environ.get("OWNER", 8004315740,7744345481))
+#OWNER = int(os.environ.get("OWNER", 5917152380,6302749609))
 
-#LOG = -1002556158219
+#LOG = -1002611586324
 
 # UPDATE_GRP = , # bot sat group
 
 # auth_chats = []
 
 #try:
-    #ADMINS=[8004315740,7744345481]
-    #for x in (os.environ.get("ADMINS", "8004315740,7744345481").split()):
+    #ADMINS=[6302749609,5917152380]
+    #for x in (os.environ.get("ADMINS", "6302749609,5917152380").split()):
         #ADMINS.append(int(x))
 #except ValueError:
         #raise Exception("Your Admins list does not contain valid integers.")
